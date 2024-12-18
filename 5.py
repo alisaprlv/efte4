@@ -55,5 +55,5 @@ while True:
     if play_again == 'да':
         play_game()
     else:
-        print("Спасибо за игру!")
+        print("Спасибо за игру :)! Всего хорошего!")
         break
